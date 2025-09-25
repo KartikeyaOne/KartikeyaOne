@@ -8,7 +8,6 @@
 
 `building ai & ml tools`  
 I work at the intersection of **AI**, **data science**, and **frontend engineering**.  
-Philosophy: keep it brutal — no sugar-coating, just sharp tools.
 
 ---
 

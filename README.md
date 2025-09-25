@@ -1,38 +1,26 @@
-<!-- NEO BRUTALIST GITHUB PROFILE README -->
-
-<!-- <p align="center">
-  <img alt="NEO BRUTAL" src="data:image/svg+xml;utf8,
-  %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 240'%3E
-    %3Crect width='1200' height='240' fill='%23000000'/%3E
-    %3Crect x='30' y='30' width='1140' height='180' fill='%23ffffff'/%3E
-    %3Ctext x='80' y='140' font-family='Arial,Impact,sans-serif' font-size='120' fill='%23000000'%3E
-      KARTIKEYA
-    %3C/text%3E
-    %3Ctext x='750' y='140' font-family='Arial,Impact,sans-serif' font-size='48' fill='%23000000'%3E
-      SHARMA
-    %3C/text%3E
-  %3C/svg%3E" />
-</p> -->
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHYfMUVvlqP7w/profile-displaybackgroundimage-shrink_350_1400/B56Zc5mhJQH8AY-/0/1749018091704?e=1761782400&v=beta&t=t4oKFiIxIxr5SOC17Tys7efWxTcfGI2C3vbFK8M5k8c" alt="neo brutalist banner" />
+</p>
+ 
 ---
 
 # hi. i'm **Kartikeya Sharma**  
 
-`CTO @ VestR | building AI tools`  
-I build things at the edge of **AI**, **data science**, and **frontend**.  
-Brutalist philosophy: cut the fluff, keep what works.
+`building ai & ml tools`  
+I work at the intersection of **AI**, **data science**, and **frontend engineering**.  
+Philosophy: keep it brutal — no sugar-coating, just sharp tools.
 
 ---
 
 ## 🚀 currently
-- CTO at **[VestR](https://joinvestr.vercel.app/)** — leading tech & building AI-powered financial tools  
-- Pursuing **B.S. in Data Science & AI @ IIT Madras** + **BCA in Data Science @ GLA University**  
-- Exploring the intersection of **machine learning**, **automation**, and **clean UI**  
+- Building **AI + ML-driven tools** that solve real-world problems  
+- Studying **Data Science & AI @ IIT Madras** and **BCA Data Science @ GLA University**  
+- Exploring ways to blend **machine learning, automation, and minimal design**  
 
 ---
 
 ## 🛠️ skills
-- **AI / Data Science** → ML, computational intelligence, applied research  
+- **AI / Data Science** → ML models, computational intelligence, applied research  
 - **Frontend** → React, TypeScript, performance tuning  
 - **Backend & Tools** → Node.js, automation, CLI tools  
 - **Design** → neo-brutalist, functional, no-nonsense  
@@ -41,13 +29,13 @@ Brutalist philosophy: cut the fluff, keep what works.
 
 ## 🔥 projects
 - **[LeetAI Assistant](https://github.com/KartikeyaOne/leetai)**  
-  Discreet desktop AI assistant — OCR + context-aware insights, minimal & invisible workflow integration.  
+  Minimal desktop AI assistant — OCR + context-aware insights, designed to stay invisible until you need it.  
 
 - **Side Projects**  
-  - CLI tools nobody asked for (but I learned from)  
-  - Dashboards I abandoned (but they taught me UX flaws)  
-  - Bots that broke (but taught me systems)  
-  > build → break → repeat.  
+  - CLI tools that nobody asked for (but taught me)  
+  - Dashboards I abandoned (but learned UX from)  
+  - Bots that broke (but revealed system cracks)  
+  > build → break → learn → repeat.  
 
 ---
 
@@ -61,8 +49,7 @@ Brutalist philosophy: cut the fluff, keep what works.
 
 ## 🌐 links
 - [LinkedIn](https://www.linkedin.com/in/kartikeyaasharmaa)  
-- [Email](mailto:kartikeya@example.com) ← replace with real one  
-- [VestR](https://joinvestr.vercel.app/)  
+- [Email](mailto:sharmakartikey2433@gmail.com) ← replace with your real email  
 
 ---
 
